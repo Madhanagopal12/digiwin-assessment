@@ -132,7 +132,7 @@ function SocialLink({ href, icon }) {
   );
 }
 
-function Header({ menuImage = "src/assets/images/menu-img.jpg" }) {
+function Header({ menuImage = "/images/menu-img.jpg" }) {
   const [open, setOpen] = useState(false);
   const close = () => setOpen(false);
 

@@ -8,9 +8,9 @@ const PROJECTS = [
     title: "Restaurant le Jardin",
     description:
       "Sobre, élégant, raffiné: ces adjectifs nous servent de fil rouge pour tous les projets digitaux et graphiques du restaurant Le Jardin.",
-    video: "src/assets/video/project-lampertz.mp4",
-    thumbA: "src/assets/images/project-1-thumb-1.jpg",
-    thumbB: "src/assets/images/project-1-thumb-3.png",
+    video: "/video/project-lampertz.mp4",
+    thumbA: "/images/project-1-thumb-1.jpg",
+    thumbB: "/images/project-1-thumb-3.png",
     href: "#",
   },
 ];

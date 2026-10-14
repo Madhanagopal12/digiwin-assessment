@@ -73,7 +73,7 @@ function ArrowDown() {
 }
 
 export default function Hero({
-  videoSrc = "src/assets/video/mum-intro-25.mp4",
+  videoSrc = "/video/mum-intro-25.mp4",
   poster,
   nextId = "about",
   scrollDistance = 500,

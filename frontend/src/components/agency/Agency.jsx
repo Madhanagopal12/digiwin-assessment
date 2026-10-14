@@ -35,7 +35,7 @@ function Agency() {
               </h2>
 
               <img
-                src="src/assets/images/agency.jpg"
+                src="/images/agency.jpg"
                 alt="Agency Img"
                 className="md:my-10 my-7.5 rounded-[20px]"
                 loading="lazy"

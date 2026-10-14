@@ -1,4 +1,4 @@
-import testimonialBg from "../../assets/images/client-testimonial-img.jfif";
+import testimonialBg from "../../../public/images/client-testimonial-img.jfif";
 
 const ClientTestimonial = () => {
   return (
@@ -37,7 +37,7 @@ const ClientTestimonial = () => {
           <div className="flex items-center gap-4">
             <div className="w-14 h-14 rounded-full bg-white p-1 flex items-center justify-center overflow-hidden shadow-lg">
               <img
-                src="src/assets/images/client-logo.png"
+                src="/images/client-logo.png"
                 alt="TransSport Logo"
                 className="w-full h-full object-contain"
               />

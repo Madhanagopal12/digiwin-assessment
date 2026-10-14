@@ -5,7 +5,7 @@ const SERVICES = [
     label: "Strategy",
     title: "Stratégies marketing qui fonctionnent efficacement.",
     items: ["Stratégie marketing", "Web Analytics & Reporting"],
-    image: "src/assets/images/service-image-1.jpg",
+    image: "/images/service-image-1.jpg",
   },
   {
     label: "Creation",
@@ -15,7 +15,7 @@ const SERVICES = [
       "Création de sites web",
       "Création de contenu & storytelling",
     ],
-    image: "src/assets/images/service-image-2.jpg",
+    image: "/images/service-image-2.jpg",
   },
   {
     label: "Marketing",
@@ -25,7 +25,7 @@ const SERVICES = [
       "Référencement (SEO/GEO)",
       "Publicité en ligne (SEA/SMA)",
     ],
-    image: "src/assets/images/service-image-3.jpg",
+    image: "/images/service-image-3.jpg",
   },
   {
     label: "Applications",
@@ -36,7 +36,7 @@ const SERVICES = [
       "Cloud Services",
       "Solutions IA",
     ],
-    image: "src/assets/images/service-image-4.jpg",
+    image: "/images/service-image-4.jpg",
   },
 ];
 
